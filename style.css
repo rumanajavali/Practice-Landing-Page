@@ -55,7 +55,7 @@ video#bgvideo{
     height: 120px;   
 }
 
-
+/*added services section*/
 #service{
     padding-top: 100px;   
 }
@@ -101,32 +101,6 @@ video#bgvideo{
         font-size: 10px;   
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /*Style the navigation bar using a navbar css generator*/
