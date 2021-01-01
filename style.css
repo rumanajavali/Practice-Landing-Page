@@ -12,6 +12,7 @@ video#bgvideo{
     z-index: -100;
 }
 
+/*Home and About Section */
 #home{
     background-color: transparent;
     color: #fff;
